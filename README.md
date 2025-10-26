@@ -3,6 +3,8 @@
 ## 📺 The Office
 The Office is one of my favorite series because of its hilarious moments, unique characters, and documentary-style storytelling.  
 I really enjoy the funny yet heartfelt relationships between the employees of Dunder Mifflin.
+![The Office](https://github.com/hozhin17/app-dev/issues/1#issue-3554111522)
+
 
 ### **Main Characters**
 - Michael Scott
